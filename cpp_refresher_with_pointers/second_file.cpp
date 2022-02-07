@@ -38,3 +38,8 @@ void getObjectDataArray(double *ptr[4])
 	*ptr[2] = (double)getData.getDataThree();
 	*ptr[3] = getData.getBigNumber();
 }
+
+void testingGithubWithGitKracken()
+{
+	std::cout << "This funciton is just for practical use";
+}
